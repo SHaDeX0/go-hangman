@@ -21,4 +21,4 @@
 go.work
 
 # IDE Settings could be redundant
-.idea/
+.idea

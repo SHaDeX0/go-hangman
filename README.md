@@ -1,5 +1,9 @@
 # go-hangman
 
+## Release v1.0.0
+[Click here to download my game!](https://github.com/SHaDeX0/go-hangman/releases/tag/v1.0.0)
+
+## description
 I'm learning a new programming language called [Go](https://go.dev)  
 Re-visiting my 12th standard final project I and my friend made.  
 Back then we made it using C++ and with help of our teacher.  

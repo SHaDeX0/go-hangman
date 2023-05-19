@@ -1,7 +1,7 @@
 # go-hangman
 
-## Release v1.0.0
-[Click here to download my game!](https://github.com/SHaDeX0/go-hangman/releases/tag/v1.0.0)
+## Release v1.0.1
+[Click here to download my game!](https://github.com/SHaDeX0/go-hangman/releases/tag/v1.0.1)
 
 ## description
 I'm learning a new programming language called [Go](https://go.dev)  
